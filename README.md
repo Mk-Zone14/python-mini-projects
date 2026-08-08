@@ -16,7 +16,7 @@ Each project is built as a hands-on experiment to learn new programming concepts
 | 🌀 Spiral Art                            | Creates a colorful animated spiral using Turtle Graphics and mathematical motion.                    | ✅ Complete |
 | 🌸 Heart Bloom                           | An animated collection of mathematical hearts that expand, rotate, and bloom around a central heart. | ✅ Complete |
 | 🌫️ Heart Haze                           | A softer, atmospheric heart animation created using layered mathematical curves.                     | ✅ Complete |
-| 🌹 Mathematical Rose                     | Beautiful rose patterns generated using polar equations.                                             | ⏳ Planned  |
+| 🌹 Mathematical Rose | Elegant generative rose artwork built using mathematical curves. | ✅ Complete |
 | 🦋 Butterfly Curve                       | Visualization of the famous mathematical butterfly curve.                                            | ⏳ Planned  |
 | 🌸 Cherry Blossom                        | Animated cherry blossoms with falling petals and gentle movement.                                    | ⏳ Planned  |
 | 🌼 Mandala Generator                     | Generates colorful and symmetrical geometric mandala patterns.                                       | ⏳ Planned  |
